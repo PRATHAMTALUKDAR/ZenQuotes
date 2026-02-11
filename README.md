@@ -18,13 +18,13 @@ Swipe left or right to discover a new quote, anytime.
 ## 📱 Screenshots
 
 <p align="center">
-  <img src="screenshots/light_1.png" width="45%" />
-  <img src="screenshots/dark_1.png" width="45%" />
+  <img src="screenshots/light_1.jpg" width="45%" />
+  <img src="screenshots/dark_1.jpg" width="45%" />
 </p>
 
 <p align="center">
-  <img src="screenshots/light_2.png" width="45%" />
-  <img src="screenshots/dark_2.png" width="45%" />
+  <img src="screenshots/light_2.jpg" width="45%" />
+  <img src="screenshots/dark_2.jpg" width="45%" />
 </p>
 
 
